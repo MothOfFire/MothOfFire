@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ***请多多指教！🖤🖤🖤***
 # 关于我的GitHub
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothOfFire&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothOfFire&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothOfFire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
